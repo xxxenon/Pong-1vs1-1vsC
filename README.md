@@ -1,4 +1,5 @@
-# Pong-1vs1-1vsC
-Se puede jugar un 1vs1 con dos jugadores, o se puede jugar en su versión single player vs la computadora. 
-Fue hecho utilizando el módulo turtle de python.
-Para jugar, simplemente se descarga el archivo .py deseado y se lo corre.
+
+
+يمكنك اللعب واحد ضد واحد مع لاعبين اثنين، أو يمكنك اللعب في الوضع الفردي ضد الحاسوب.
+تم تطوير اللعبة باستخدام وحدة Turtle في لغة بايثون.
+للعب، فقط قم بتحميل ملف .py المطلوب وتشغيله.
